@@ -1,3 +1,8 @@
+- [ ] Turn on GitHub Pages
+- [ ] Outline myportfolio
+- [ ] Introduce myself to the world
+
+
 #### The First GitHub
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
